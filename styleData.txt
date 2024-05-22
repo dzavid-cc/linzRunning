@@ -1,0 +1,19 @@
+This are the fonts and colors used for the project.
+
+Fonts:
+
+    Heading:
+        -Trebuchet MS
+
+    Text:
+        -Mulish
+
+Colors:
+
+    Dark:
+        -#093252
+        -#131039
+    
+    Bright:
+        -#f5e5ca
+        -#e14349
